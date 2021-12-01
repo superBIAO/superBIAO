@@ -1,4 +1,4 @@
-<img align="right" src="https://github.com/superBIAO/superBIAO/blob/main/YLN.jpg?raw=true" width="450px">
+<img align="right" src="https://github.com/superBIAO/superBIAO/blob/main/YLN.jpg?raw=true" width="350px">
 
 ### 你好，世界！👋
 
